@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
