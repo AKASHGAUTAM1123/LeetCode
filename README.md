@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0875-koko-eating-bananas) |
