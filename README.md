@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0217-contains-duplicate) |
+| [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0278-first-bad-version) |
+| [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Stack
@@ -106,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
