@@ -11,19 +11,21 @@ public:
                 return mid;
             }
 
-            if(nums[mid]>=nums[left]){ //left mae search krenge
-                if(target >= nums[left] && target<nums[mid]){
+            // search in left sorted part
+            if(nums[mid] >= nums[left]){
+                if(target >= nums[left] && target < nums[mid]){
                     right = mid -1;
                 }else{
-                    left = mid+1;
+                    left = mid +1;
                 }
             }
-            //right me search krenge
+
+            // search in right part
             else{
-                if(nums[mid]<target && target <= nums[right]){
-                    left = mid+1;
+                if(nums[mid] < target && target <= nums[right]){
+                    left = mid +1;
                 }else{
-                    right = mid-1;
+                    right = mid -1;
                 }
             }
         }
