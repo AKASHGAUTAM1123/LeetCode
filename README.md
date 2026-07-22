@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0876-middle-of-the-linked-list) |
