@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
