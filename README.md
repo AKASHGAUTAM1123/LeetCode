@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0383-ransom-note) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0125-valid-palindrome) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
