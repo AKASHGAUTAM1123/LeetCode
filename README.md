@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
