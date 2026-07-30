@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
