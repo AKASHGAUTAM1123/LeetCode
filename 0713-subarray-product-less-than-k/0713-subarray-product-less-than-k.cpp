@@ -8,7 +8,7 @@ public:
         if(k<=1) return 0;
         for(int right=0;right<n;right++){
             prod*=nums[right];
-        while(prod>k){
+        while(prod>=k){
             prod/=nums[left];
             left++;
         }
