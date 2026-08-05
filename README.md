@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1920-build-array-from-permutation](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3731-find-missing-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
