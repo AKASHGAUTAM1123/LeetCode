@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3838-weighted-word-mapping](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3838-weighted-word-mapping) |
