@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
