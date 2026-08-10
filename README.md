@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0383-ransom-note) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1510-stone-game-iv) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0344-reverse-string) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
