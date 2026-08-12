@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1510-stone-game-iv) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
