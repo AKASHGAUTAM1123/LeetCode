@@ -17,7 +17,7 @@ public:
                 res=max(res,i+1);
                 continue;
             }
-            if(mp.find(diff)==mp.end()){
+            if(mp.find(diff)==mp.end(i)){
                 mp[diff]=i;
             }else{
                 int idx=mp[diff];
