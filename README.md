@@ -531,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0986-interval-list-intersections) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
