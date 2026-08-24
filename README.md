@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0525-contiguous-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
