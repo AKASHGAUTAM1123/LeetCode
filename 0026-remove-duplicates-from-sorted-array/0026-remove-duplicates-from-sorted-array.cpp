@@ -1,7 +1,7 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int n = nums.size();
+        int n=nums.size();
         int officer=0;
         int res=1;
         int cm=1;
@@ -10,7 +10,7 @@ public:
                 cm++;
                 continue;
             }
-            nums[officer+1] = nums[cm];
+            nums[officer+1]=nums[cm];
             officer++;
             res++;
             cm++;
