@@ -1,17 +1,27 @@
 class Solution {
 public:
-    string build(string s){
-        string ans;
-        for(char ch:s){
-            if(ch!='#'){
-                ans.push_back(ch);
-            }else if(!ans.empty()){
-                ans.pop_back();
+    string process(string s){
+        stack<char>st;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='#'){
+                if(!st.empty()){
+                    st.pop();
+                }
+            }else{
+                st.push(s[i]);
             }
         }
-            return ans;
+            string res="";
+            while(!st.empty()){
+                res+=st.top();
+                st.pop();
+            }
+            reverse(res.begin(),res.end());
+            return res;
     }
     bool backspaceCompare(string s, string t) {
-        return build(s) == build(t);
+        string a=process(s);
+        string b=process(t);
+        return a==b;
     }
 };
