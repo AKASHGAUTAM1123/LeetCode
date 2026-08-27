@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
