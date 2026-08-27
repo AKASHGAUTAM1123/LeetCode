@@ -1,7 +1,7 @@
 class Solution {
 public:
-    string build(stirng s){
-        string ans="";
+    string build(string s){
+        string ans;
         for(char ch:s){
             if(ch!='#'){
                 ans.push_back(ch);
