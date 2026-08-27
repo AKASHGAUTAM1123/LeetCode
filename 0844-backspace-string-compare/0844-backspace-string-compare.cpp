@@ -1,16 +1,15 @@
 class Solution {
 public:
-    string build(string s){
-        string ans;
-
-        for(char c: s){
-            if(c!='#'){
-                ans.push_back(c);
+    string build(stirng s){
+        string ans="";
+        for(char ch:s){
+            if(ch!='#'){
+                ans.push_back(ch);
             }else if(!ans.empty()){
                 ans.pop_back();
             }
         }
-        return ans;
+            return ans;
     }
     bool backspaceCompare(string s, string t) {
         return build(s) == build(t);
