@@ -7,7 +7,7 @@ public:
         int right=n-1;
         int index=n-1;
         while(left<=right){
-            if(abs(nums[left])> abs(nums[right])){
+            if(abs(nums[left]) > abs(nums[right])){
                 ans[index]=nums[left]*nums[left];
                 left++;
             }else{
