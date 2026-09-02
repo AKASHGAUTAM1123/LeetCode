@@ -5,7 +5,7 @@ public:
         while(n>0){
             int digit=n%10;
             n/=10;
-            sum=sum+digit*digit;
+            sum+=digit*digit;
         }
         return sum;
     }
@@ -16,8 +16,7 @@ public:
             slow=fun(slow);
             fast=fun(fast);
             fast=fun(fast);
-
-            while(slow == fast && slow!=1){
+            if(slow == fast && slow!=1){
                 return false;
             }
         }
