@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0901-online-stock-span) |
 ## Interactive
 |  |
 | ------- |
@@ -619,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
