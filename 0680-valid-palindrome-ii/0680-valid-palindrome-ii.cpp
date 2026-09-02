@@ -2,11 +2,12 @@ class Solution {
 public:
     bool validPalindrome(string s) {
         int n=s.size();
-        int left=0;int right=n-1;
+        int left=0;
+        int right=n-1;
         while(left<right){
             if(s[left]!=s[right]){
-                return isPalindrom(s,left+1,right)||
-                        isPalindrom(s,left,right-1);
+                return isPalindrome(s,left+1,right)||
+                        isPalindrome(s,left,right-1);
             }
             left++;
             right--;
@@ -14,13 +15,13 @@ public:
         return true;
     }
 private:
-    bool isPalindrom(string&s,int left,int right){
+    bool isPalindrome(string&s,int left,int right){
         while(left<right){
-           if(s[left]!=s[right]){
-            return false;
-           } 
-           left++;
-           right--;
+            if(s[left]!=s[right]){
+                return false;
+            }
+            left++;
+            right--;
         }
         return true;
     }
