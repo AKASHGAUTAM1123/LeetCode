@@ -9,25 +9,25 @@ public:
     }
     int characterReplacement(string s, int k) {
         int n=s.size();
-        int low=0;
-        int res=INT_MIN;
+        int left=0;
+        int ans=INT_MIN;
         vector<int>f(256,0);
-        for(int high=0;high<n;high++){
-            f[s[high]]++;
+        for(int right=0;right<n;right++){
+            f[s[right]]++;
+            int len = right-left+1;
+            int maxlen = find(f);
+            int diff = len - maxlen;
 
-            int len=high-low+1;
-            int maxlen=find(f);
-            int diff=len-maxlen;
             while(diff>k){
-                f[s[low]]--;
-                low++;
-                len=high-low+1;
+                f[s[left]]--;
+                left++;
                 maxlen=find(f);
+                len=right-left+1;
                 diff=len-maxlen;
             }
-            len=high-low+1;
-            res=max(res,len);
+            len=right-left+1;
+            ans=max(ans,len);
         }
-        return res;
+        return ans;
     }
 };
