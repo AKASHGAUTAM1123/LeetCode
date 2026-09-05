@@ -9,7 +9,7 @@ public:
                 count++;
             }
             if(count>k){
-                if(nums[left] == 0){
+                if(nums[left]==0){
                     count--;
                 }
                 left++;
