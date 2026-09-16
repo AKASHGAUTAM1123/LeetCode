@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -685,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
