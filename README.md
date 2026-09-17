@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0184-department-highest-salary) |
 ## Nim Game
 |  |
 | ------- |
