@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0511-game-play-analysis-i) |
+| [0627-swap-sex-of-employees](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0627-swap-sex-of-employees) |
 ## Nim Game
 |  |
 | ------- |
