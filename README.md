@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1179-reformat-department-table) |
 | [1407-top-travellers](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1407-top-travellers) |
+| [1587-bank-account-summary-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1587-bank-account-summary-ii) |
 ## Nim Game
 |  |
 | ------- |
