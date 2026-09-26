@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1795-rearrange-products-table) |
 ## Nim Game
 |  |
