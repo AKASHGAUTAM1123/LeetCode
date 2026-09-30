@@ -675,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1873-calculate-special-bonus) |
+| [1965-employees-with-missing-information](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1965-employees-with-missing-information) |
 ## Nim Game
 |  |
 | ------- |
