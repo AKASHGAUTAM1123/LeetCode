@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1544-make-the-string-great) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
