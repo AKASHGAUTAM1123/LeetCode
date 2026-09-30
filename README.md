@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1544-make-the-string-great) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
