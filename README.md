@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0739-daily-temperatures) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/0705-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
