@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1965-employees-with-missing-information) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Nim Game
 |  |
 | ------- |
