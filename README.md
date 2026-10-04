@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
+| [3570-find-books-with-no-available-copies](https://github.com/AKASHGAUTAM1123/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 ## Nim Game
 |  |
 | ------- |
